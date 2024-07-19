@@ -1,6 +1,3 @@
-Certainly! Here's a basic README template for your GitHub project:
-
----
 
 # Voice Assistant using Python
 
